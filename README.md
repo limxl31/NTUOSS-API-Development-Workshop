@@ -4,9 +4,9 @@ by [Jay Gupta](https://github.com/guptajay) for [NTU Open Source Society](https:
 
 > **Disclaimer:** This document is only meant to serve as a reference for the attendees of the workshop. It does not cover all the concepts or implementation details discussed during the actual workshop.
 
-Welcome to the two-part TGIFHacks workshop for Semester 2 AY 21/22. This workshop will give you a brief introduction to web-based API development. You will learn the fundamentals behind artificial neural networks and how they help machines to make decisions on their own.
+Welcome to the two-part TGIFHacks workshop for Semester 2 AY 21/22. This workshop will give you a brief introduction to web-based API development. You will learn the fundamentals behind the types of APIs (Framework, OS, Web-based APIs, etc.), web-based API protocols (SOAP, RESTful, GraphQL, etc.), REST Framework, and HTTP protocols. 
 
-After that, in a hands-on exercise, you will be introduced to Keras, one of the leading Deep Learning frameworks out there. This will open up countless possibilities for you to build exciting and amazing machine learning applications. As part of the workshop, you will learn to train a neural network to identify different types of flowers only with a few given attributes. So let's get started!
+After that, in a hands-on exercise, you will be introduced to the FastAPI, a modern, fast (high-performance), web framework for building APIs with Python. We will together build a minimalistic API that will store (in a database) and retrive the members of NTUOSS. This will open up countless possibilities for you to build exciting and amazing applications with the use of APIs. For the next part of the workshop, you will learn more advanced API fundamentals such as authentication, API standards, deployment, and much more!
 
 ## Workshop Details
 **Time**: Friday, 11 February 2022. 6:30pm - 8:30pm  
