@@ -1,5 +1,4 @@
 ## Introducton to API Development (Part 1)
-> System Setup Guide
 
 ### Virtual Environment Setup
 
@@ -14,9 +13,9 @@ $ pip install -r requirements.txt
 #### Windows
 
 ```console
-$ python3 -m venv env 
-$ .\env\Scripts\activate
-$ pip install -r requirements.txt
+> python3 -m venv env 
+> .\env\Scripts\activate
+> pip install -r requirements.txt
 ```
 
 ### Run Live Server
