@@ -5,7 +5,7 @@ by Jay Gupta for NTU Open Source Society
 """
 
 # Imports
-from fastapi import FastAPI, Depends, status
+from fastapi import FastAPI, Depends
 from pydantic import BaseModel
 from typing import List, Optional
 from database import SessionLocal
