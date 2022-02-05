@@ -9,13 +9,23 @@ Welcome to the two-part TGIFHacks workshop for Semester 2 AY 21/22. This worksho
 After that, in a hands-on exercise, you will be introduced to the FastAPI, a modern, fast (high-performance), web framework for building APIs with Python. We will together build a minimalistic API that will store (in a database) and retrive the members of NTUOSS. This will open up countless possibilities for you to build exciting and amazing applications with the use of APIs. For the next part of the workshop, you will learn more advanced API fundamentals such as authentication, API standards, deployment, and much more!
 
 ## Workshop Details
+### Part 1
 **Time**: Friday, 11 February 2022. 6:30pm - 8:30pm  
 **Location**: Zoom (due to COVID-19 measures)  
-**Organizer**: NTU Open Source Society
+
+### Part 2
+**Time**: Friday, 18 February 2022. 6:30pm - 8:30pm  
+**Location**: Zoom (due to COVID-19 measures)  
 
 ## Questions
 
 Raise your hand at any time with the 'Raise Hand' feature in Zoom during the workshop or shoot me an [e-mail](mailto:jay002@e.ntu.edu.sg) later.
+
+## Prerequisites
+Before you start the workshop, make sure you have these:
+* Python 3.6+ installed in your system
+* A code editor such as Visual Studio Code
+* Postman API Platform Desktop App
 
 ## Errors
 
