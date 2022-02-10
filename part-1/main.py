@@ -1,6 +1,6 @@
 """
 Introduction to API Development (Part 1)
-NTUOSS TGIFHacks #XXX
+NTUOSS TGIFHacks #131
 by Jay Gupta for NTU Open Source Society
 """
 
@@ -25,6 +25,7 @@ def get_db():
         db.close()
 
 # A Pydantic Member
+# Data validation and settings management using python type annotations.
 class Member(BaseModel):
     name: str
     school: str
