@@ -1,6 +1,6 @@
 """
-Introduction to API Development (Part 1)
-NTUOSS TGIFHacks #131
+Introduction to API Development (Part 2)
+NTUOSS TGIFHacks #132
 by Jay Gupta for NTU Open Source Society
 """
 
@@ -55,7 +55,6 @@ def create_member(db: Session, member: Member):
 
     return db_member
 # ------------------------------------------------
-
 
 # API Routes
 # ------------------------------------------------
