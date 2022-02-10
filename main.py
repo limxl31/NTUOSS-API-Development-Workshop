@@ -5,7 +5,7 @@ by Jay Gupta for NTU Open Source Society
 """
 
 # Imports
-from fastapi import FastAPI, Depends
+from fastapi import FastAPI, Depends, status
 from pydantic import BaseModel
 from typing import List, Optional
 from database import SessionLocal
@@ -72,3 +72,8 @@ def get_members_view(db: Session = Depends(get_db), sort_by: Optional[str] = Non
 def get_member_view(member_id: int, db: Session = Depends(get_db)):
     return get_member(db, member_id)
 # ------------------------------------------------
+
+# Health Check
+@app.get('/healthcheck', status_code=status.HTTP_200_OK)
+def perform_healthcheck():
+    return {'healthcheck': 'Everything OK!'}
