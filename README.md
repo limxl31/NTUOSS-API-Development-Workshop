@@ -1,4 +1,4 @@
-# NTUOSS - API Development
+# NTUOSS - Introduction to API Development
 
 by [Jay Gupta](https://github.com/guptajay) for [NTU Open Source Society](https://ntuoss.com/home)
 
