@@ -17,6 +17,7 @@ from sqlalchemy.orm import Session
 app = FastAPI()
 
 # Database Dependency
+# Create a session for a request. 
 def get_db():
     db = SessionLocal()
     try:
@@ -31,6 +32,7 @@ class Member(BaseModel):
     school: str
     graduation_year: int
     
+    # Allow ORM fetch
     class Config:
         orm_mode = True
 
