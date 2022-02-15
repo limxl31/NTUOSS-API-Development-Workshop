@@ -10,10 +10,13 @@ After that, in a hands-on exercise, you will be introduced to the FastAPI, a mod
 
 ## Workshop Details
 ### Part 1
+**Registration**: [NTU Event Registration System](https://wis.ntu.edu.sg/webexe88/owa/REGISTER_NTU.REGISTER?EVENT_ID=OA22020718502714)  
 **Time**: Friday, 11 February 2022. 6:30pm - 8:30pm  
 **Location**: Zoom (due to COVID-19 measures)  
+**Recording**: [YouTube](https://youtu.be/gp994pgurcE)
 
 ### Part 2
+**Registration**: [NTU Event Registration System](https://wis.ntu.edu.sg/webexe88/owa/REGISTER_NTU.REGISTER?EVENT_ID=OA22021500473610)  
 **Time**: Friday, 18 February 2022. 6:30pm - 8:30pm  
 **Location**: Zoom (due to COVID-19 measures)  
 
