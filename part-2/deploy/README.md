@@ -1,4 +1,4 @@
-## Introducton to API Development (Part 1)
+## Introducton to API Development (Part 2)
 
 ### Virtual Environment Setup
 
@@ -19,7 +19,7 @@ $ pip install -r requirements.txt
 ```
 
 ### Run Live Server
-> Run the Uvicorn live server to serve the API
+> Run the Uvicorn live server to serve the API.
 
 ```console
 $ uvicorn main:app --reload
