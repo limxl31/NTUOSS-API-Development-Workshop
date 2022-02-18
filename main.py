@@ -79,3 +79,4 @@ def get_member_view(member_id: int, db: Session = Depends(get_db)):
 @app.get('/healthcheck', status_code=status.HTTP_200_OK)
 def perform_healthcheck():
     return {'healthcheck': 'Everything OK!'}
+    
