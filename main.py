@@ -20,7 +20,7 @@ app = FastAPI()
 # CORS Configuration
 # ------------------------------------------------
 origins = [
-    "*",
+    "*"
 ]
 
 app.add_middleware(
