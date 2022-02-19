@@ -22,7 +22,8 @@ After that, in a hands-on exercise, you will be introduced to the FastAPI, a mod
 
 **Registration**: [NTU Event Registration System](https://wis.ntu.edu.sg/webexe88/owa/REGISTER_NTU.REGISTER?EVENT_ID=OA22021500473610)  
 **Time**: Friday, 18 February 2022. 6:30pm - 8:30pm  
-**Location**: Zoom (due to COVID-19 measures)  
+**Location**: Zoom (due to COVID-19 measures)
+**Recording**: [YouTube](https://youtu.be/pl9sFva2VHo)
 
 You will learn the fundamentals of deploying a REST API on a server running in the
 cloud and automating the deployment using CI/CD pipelines. Next, you will be
