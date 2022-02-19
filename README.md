@@ -11,7 +11,7 @@ Welcome to the two-part TGIFHacks workshop for Semester 2 AY 21/22. This worksho
 
 **Registration**: [NTU Event Registration System](https://wis.ntu.edu.sg/webexe88/owa/REGISTER_NTU.REGISTER?EVENT_ID=OA22020718502714)  
 **Time**: Friday, 11 February 2022. 6:30pm - 8:30pm  
-**Location**: Zoom (due to COVID-19 measures)  
+**Location**: Zoom (due to COVID-19 measures)    
 **Recording**: [YouTube](https://youtu.be/gp994pgurcE)
 
 You will learn the fundamentals behind the types of APIs (Framework, OS, Web-based APIs, etc.), web-based API protocols (SOAP, RESTful, GraphQL, etc.), REST Framework, and HTTP protocols. 
@@ -22,7 +22,7 @@ After that, in a hands-on exercise, you will be introduced to the FastAPI, a mod
 
 **Registration**: [NTU Event Registration System](https://wis.ntu.edu.sg/webexe88/owa/REGISTER_NTU.REGISTER?EVENT_ID=OA22021500473610)  
 **Time**: Friday, 18 February 2022. 6:30pm - 8:30pm  
-**Location**: Zoom (due to COVID-19 measures)
+**Location**: Zoom (due to COVID-19 measures)   
 **Recording**: [YouTube](https://youtu.be/pl9sFva2VHo)
 
 You will learn the fundamentals of deploying a REST API on a server running in the
