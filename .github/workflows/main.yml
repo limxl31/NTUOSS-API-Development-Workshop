@@ -19,7 +19,7 @@ jobs:
         uses: akhileshns/heroku-deploy@v3.12.12
         with:
           heroku_api_key: ${{ secrets.HEROKU_API_KEY }}
-          heroku_app_name: "ntuoss-api-workshop"
-          heroku_email: "jaygupta2607@gmail.com"
-          healthcheck: "https://ntuoss-api-workshop.herokuapp.com/healthcheck"
+          heroku_app_name: "ntuoss-api-xiaolan"
+          heroku_email: "kirisawanaomi@gmail.com"
+          healthcheck: "https://ntuoss-api-xiaolan.herokuapp.com/healthcheck"
           rollbackonhealthcheckfailed: true
